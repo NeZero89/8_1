@@ -9,11 +9,9 @@ public class Main {
         task6();
         task7();
         task8();
-        // task9();
-        // task10();
+
 
     }
-
 
     public static void task1() {
         System.out.println("Задача №1");
@@ -106,7 +104,3 @@ public class Main {
 
         }
     }}
-
-
-
-
