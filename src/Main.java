@@ -86,7 +86,7 @@ public class Main {
         System.out.println("Задача №7");
         int i=2;
         do {
-            System.out.println("Сегодня пятница " + i+"- е число. Необходимо подготовить отчет");
+            System.out.println("Сегодня пятница " + i+"-е число. Необходимо подготовить отчет");
             i = i + 7;
 
         }while (i < 31) ;
